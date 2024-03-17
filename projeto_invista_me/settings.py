@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'projeto_invista_me.wsgi.application'
+
 
 
 # Database
